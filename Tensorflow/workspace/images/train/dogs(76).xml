@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all-images</folder>
+	<filename>dogs(76).jpg</filename>
+	<path>D:\DICT\Day 4\TF-Template\Tensorflow\workspace\images\all-images\dogs(76).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>23</ymin>
+			<xmax>211</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

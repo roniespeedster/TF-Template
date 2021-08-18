@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all-images</folder>
+	<filename>cats(34).jpeg</filename>
+	<path>D:\DICT\Day 4\TF-Template\Tensorflow\workspace\images\all-images\cats(34).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>348</width>
+		<height>145</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>2</ymin>
+			<xmax>245</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
